@@ -1,0 +1,2 @@
+Approach,Model,Accuracy,Precision,Recall,F1-score,Training Time (sec)
+End-to-End Deep Learning,EfficientNetB0,0.9027,0.903236068506376,0.9027000000000001,0.9024552658812517,35449.28007221222
