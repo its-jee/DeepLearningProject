@@ -1,0 +1,2 @@
+Approach,Model,Accuracy,Precision,Recall,F1-score,SVM Training Time (sec),Train Feature Extraction Time (sec),Validation Feature Extraction Time (sec),Test Feature Extraction Time (sec)
+EfficientNetB0 Features + ML,Linear SVM,0.8743,0.8744637088339587,0.8743000000000001,0.8741614838934305,506.55165696144104,3337.84707570076,861.9842286109924,842.0185961723328
